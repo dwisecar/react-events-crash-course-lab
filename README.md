@@ -17,7 +17,7 @@ functionality. We have a simple single component application that renders a
 
 For this lab, minimal guidance will be given. If you run into trouble, you are
 expected to reference the React Crash Course ReadMe lesson and React
-documentation on events:
+documentation on events: 
 
 - [React Synthetic Events](https://reactjs.org/docs/events.html)
 - [Handling Events](https://reactjs.org/docs/handling-events.html)
